@@ -1,2 +1,0 @@
-Added color to make it easier to follow
-added group box to group related controls
