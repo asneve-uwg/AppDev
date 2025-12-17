@@ -1,0 +1,14 @@
+C:\Users\Abby\source\repos\AbigailSneve_A6\bin\Debug\net8.0-windows\AbigailSneve_A6.exe
+C:\Users\Abby\source\repos\AbigailSneve_A6\bin\Debug\net8.0-windows\AbigailSneve_A6.deps.json
+C:\Users\Abby\source\repos\AbigailSneve_A6\bin\Debug\net8.0-windows\AbigailSneve_A6.runtimeconfig.json
+C:\Users\Abby\source\repos\AbigailSneve_A6\bin\Debug\net8.0-windows\AbigailSneve_A6.dll
+C:\Users\Abby\source\repos\AbigailSneve_A6\bin\Debug\net8.0-windows\AbigailSneve_A6.pdb
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.AssemblyInfoInputs.cache
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.AssemblyInfo.cs
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.csproj.CoreCompileInputs.cache
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.dll
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\refint\AbigailSneve_A6.dll
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.pdb
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\AbigailSneve_A6.genruntimeconfig.cache
+C:\Users\Abby\source\repos\AbigailSneve_A6\obj\Debug\net8.0-windows\ref\AbigailSneve_A6.dll
